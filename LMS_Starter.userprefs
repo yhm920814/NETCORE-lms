@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D6F23A60-03C3-4C9C-AD6B-014978ABB407}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LMS_Starter/Program.cs">
+    <Files>
+      <File FileName="LMS_Starter/Service/SMSService.cs" Line="24" Column="13" />
+      <File FileName="LMS_Starter/Service/LMSDBContext.cs" Line="57" Column="6" />
+      <File FileName="LMS_Starter/Controllers/CoursesController.cs" Line="39" Column="30" />
+      <File FileName="LMS_Starter/Service/ILMSDataHandler.cs" Line="1" Column="1" />
+      <File FileName="LMS_Starter/Service/Authentication.cs" Line="11" Column="33" />
+      <File FileName="LMS_Starter/Program.cs" Line="26" Column="37" />
+      <File FileName="LMS_Starter/Startup.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LMS__Starter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

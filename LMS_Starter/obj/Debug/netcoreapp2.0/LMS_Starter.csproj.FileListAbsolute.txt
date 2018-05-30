@@ -1,0 +1,11 @@
+/Users/hemingyuan/lms-backend-a/LMS_Starter/obj/Debug/netcoreapp2.0/LMS_Starter.csproj.CoreCompileInputs.cache
+/Users/hemingyuan/lms-backend-a/LMS_Starter/obj/Debug/netcoreapp2.0/LMS_Starter.AssemblyInfoInputs.cache
+/Users/hemingyuan/lms-backend-a/LMS_Starter/obj/Debug/netcoreapp2.0/LMS_Starter.AssemblyInfo.cs
+/Users/hemingyuan/lms-backend-a/LMS_Starter/bin/Debug/netcoreapp2.0/LMS_Starter.deps.json
+/Users/hemingyuan/lms-backend-a/LMS_Starter/bin/Debug/netcoreapp2.0/LMS_Starter.runtimeconfig.json
+/Users/hemingyuan/lms-backend-a/LMS_Starter/bin/Debug/netcoreapp2.0/LMS_Starter.runtimeconfig.dev.json
+/Users/hemingyuan/lms-backend-a/LMS_Starter/bin/Debug/netcoreapp2.0/LMS_Starter.dll
+/Users/hemingyuan/lms-backend-a/LMS_Starter/bin/Debug/netcoreapp2.0/LMS_Starter.pdb
+/Users/hemingyuan/lms-backend-a/LMS_Starter/obj/Debug/netcoreapp2.0/LMS_Starter.dll
+/Users/hemingyuan/lms-backend-a/LMS_Starter/obj/Debug/netcoreapp2.0/LMS_Starter.pdb
+/Users/hemingyuan/lms-backend-a/LMS_Starter/obj/Debug/netcoreapp2.0/LMS_Starter.csprojResolveAssemblyReference.cache
